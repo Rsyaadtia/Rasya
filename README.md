@@ -8,4 +8,4 @@ itu kalkulator ini ada operasi dasar matematika seperti penambahan, pengurangan,
 eksekusi file indeks.html sesuai pathnya pada browser anda 
 
  # MADE BY
-Rasya, kelas 12 RPL 1, SMKN 1 Semparuk
+Rasya, kelas 12 RPL 1, SMKN 1 SEMPARUK 
