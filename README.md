@@ -1,5 +1,5 @@
  # APLIKASI KALKULATOR SEDERHANA
-aplikasi ini dibuat untuk UKK/RPL 2024 2025 pada 21 Februari 2025 
+aplikasi ini dibuat untuk UKK/RPL 2024/2025 pada 25 Februari 2025 
 
  # FITUR CALCULATOR 
 itu kalkulator ini ada operasi dasar matematika seperti penambahan, pengurangan, perkalian, dan pembagian
